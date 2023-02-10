@@ -1,0 +1,19 @@
+h1{
+    color:crimson (128, 128, 128);
+}
+img{
+    width: 480px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: red;
+}
+#spandId{
+    font-size: 18px;
+    margin: 50px;
+}
+.divclass{
+    padding: 50px;
+    border: 2px solid rebeccapurple;
+}
